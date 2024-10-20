@@ -1,10 +1,6 @@
-## Hi there 👋
+![GitHub_Banner](https://github.com/user-attachments/assets/3819091e-7e65-442d-a258-418de02754de)
 
 <!--
-**joseromao/joseromao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
